@@ -1,5 +1,24 @@
-# 💫 About Me:
-I am currently working on:<br>"Frontend development using React, JavaScript, and TypeScript."<br><br>I am looking to collaborate on:<br>"Frontend projects and open-source contributions related to JavaScript frameworks."<br><br>I am looking for help with:<br>"Understanding backend development and improving performance."<br><br>I am currently learning:<br>"Exploring backend development with Node.js, Express, and MongoDB."<br><br>Ask me about:<br>"Vanilla Js, Ts, React, CSS, and frontend development best practices."<br><br>Fun fact:<br>"I enjoy breaking down complex concepts into easy-to-understand explanations!"<br><br>
+# Hi there! 👋 I'm Karan Meghe
+
+I'm a **Frontend Developer** with a passion for creating User-friendly and responsive web applications.
+
+### 🚀 I am currently working on:
+- Frontend development using **React**, **JavaScript**, and **TypeScript**.
+
+### 🤝 I am looking to collaborate on:
+- Frontend projects and open-source contributions related to **JavaScript frameworks**.
+
+### 💡 I am looking for help with:
+- Understanding **backend development** and improving performance.
+
+### 🌱 I am currently learning:
+- Exploring backend development with **Node.js**, **Express**, and **MongoDB**.
+
+### 💬 Ask me about:
+- **Vanilla JavaScript**, **TypeScript**, **React**, **CSS**, and frontend development best practices.
+
+### 🎉 Fun fact:
+- I enjoy breaking down complex concepts into easy-to-understand explanations! 😄
 
 
 ## 🌐 Socials:
