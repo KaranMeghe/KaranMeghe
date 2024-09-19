@@ -35,6 +35,6 @@ I'm a **Frontend Developer** with a passion for creating User-friendly and respo
 ![](https://github-contributor-stats.vercel.app/api?username=KaranMeghe&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KaranMeghe&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KaranMeghe&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
